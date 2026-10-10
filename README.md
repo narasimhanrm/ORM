@@ -4,7 +4,7 @@
 ## AIM
 To develop a Django Application to store and retrieve data from a Delivery Service Database platform using Object Relational Mapping(ORM).
 
-## ENTITY RELATIONSHIP DIAGRAM
+
 
 
 
